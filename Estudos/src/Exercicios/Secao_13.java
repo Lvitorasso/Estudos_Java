@@ -27,6 +27,7 @@ public class Secao_13 {
 		System.out.println("Digite o nome do departamento");
 		empregado.setDepartamento(sc.nextLine());		
 
+		
 		System.out.println("Registre o Empregado");
 
 		System.out.println("Nome:");
